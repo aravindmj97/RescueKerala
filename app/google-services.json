@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450898270037",
+    "firebase_url": "https://kerala-rescue-3e6a2.firebaseio.com",
+    "project_id": "kerala-rescue-3e6a2",
+    "storage_bucket": "kerala-rescue-3e6a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450898270037:android:98bcb958ec68ef5c",
+        "android_client_info": {
+          "package_name": "com.a.rescuekerala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450898270037-0c56lokk7f6lhsadfthm718sovn4baa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a.rescuekerala",
+            "certificate_hash": "df7c9158f67ab52d65fc0a9656bd36bfa6df2d5b"
+          }
+        },
+        {
+          "client_id": "450898270037-6dvndu4vqnb078nkn0m6mhmsfan21uu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvlrANPNB5wRRrdGfztjyqEmq4peTQ70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450898270037-6dvndu4vqnb078nkn0m6mhmsfan21uu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
